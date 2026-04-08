@@ -7,4 +7,5 @@ Rule is Set
 
 adding rule to main brach
  all done
- 
+
+ activated the rule
